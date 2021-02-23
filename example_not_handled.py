@@ -2,6 +2,7 @@
 Example of why exception handling may be needed.
 '''
 __author__ = 'Keith Wright'
+
 # Assign numerator by default to 1000
 numerator = 1000
 

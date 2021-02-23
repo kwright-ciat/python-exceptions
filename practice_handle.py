@@ -17,4 +17,4 @@ except IndexError:
 
     # Print an error message
 
-    print("You can't print the sixth element in a three element list!")
+    print("You can't print an element not in the list!")
