@@ -20,7 +20,7 @@ if age <= 0:
     # If it is true that the age is less than or equal to 0(zero), 
     # raise the ZeroDivisionError which will cause the program to exit
 
-    raise ZeroDivisionError
+    raise ZeroDivisionError("Please input an age greater than zero.")
 
 # If it false that the age <= 0, then print the age divided by 100.
 
